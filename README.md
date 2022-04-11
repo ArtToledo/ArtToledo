@@ -4,7 +4,7 @@ Apaixonado por tecnologia e em aprender coisas novas.
 
  <br/> :blue_heart: &nbsp; Buscando projetos desafiadores que me ajudem a melhorar minhas habilidades de desenvolvimento 
  <br/> :books: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, React Native, Angular e Electron
- <br/> 💬  &nbsp; Sobre mim: Amo programação, games (até já publiquei 2), séries e livros :heart:
+ <br/> 💬  &nbsp; Sobre mim: Amo programação, games (até já publiquei 2), animes e livros :heart:
  
  <br/> :mailbox: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ArthurToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/arthur-toledo)](https://br.linkedin.com/in/arthur-toledo) 
 | 
