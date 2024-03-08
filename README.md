@@ -1,10 +1,16 @@
-## Hello World! 👋
+# Hello World! 👋
+
 I'm Arthur Toledo, a 23-year-old Front-end developer from Belo Horizonte, Brazil 🇧🇷. My main focus is to gain a solid understanding of backend technologies.
 
-Detailed information
-💼 Working at Squadra Digital as a Backend Developer | Technical leader with Node.js.
-🚀 Currently focused on improving my skills in backend technologies with a focus on software scalability and longevity.
-🌐 Some technologies I use: Node.js, Angular, AWS, NestJS and Docker.
+## **Detailed information**
+
+ - 💼 Working at Squadra Digital as a Backend Developer | Technical
+   leader with Node.js. 
+ - 🚀 Currently focused on improving my skills in
+   backend technologies with a focus on software scalability and
+   longevity. 
+ - 🌐 Some technologies I use: Node.js, Angular, AWS, NestJS
+   and Docker.
 
 Let's connect
 Feel free to connect with me for collaboration or a friendly chat:
