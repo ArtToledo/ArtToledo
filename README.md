@@ -1,11 +1,12 @@
 ## Hello World! 👋
-Apaixonado por tecnologia e em aprender coisas novas.
-<br/>Atualmente, sou Analista de Desenvolvimento na **Squadra Tecnologia** e **freelancer** nas horas vagas :computer:
+I'm Arthur Toledo, a 23-year-old Front-end developer from Belo Horizonte, Brazil 🇧🇷. My main focus is to gain a solid understanding of backend technologies.
 
- <br/> :blue_heart: &nbsp; Buscando projetos desafiadores que me ajudem a melhorar minhas habilidades de desenvolvimento 
- <br/> :books: &nbsp; Stack em aprendizagem: HTML, CSS, JavaScript, Node.js, Typescript, React Native, Angular e Electron
- <br/> 💬  &nbsp; Sobre mim: Amo programação, games (até já publiquei 2), animes e livros :heart:
- 
- <br/> :mailbox: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ArthurToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/arthur-toledo)](https://br.linkedin.com/in/arthur-toledo) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-arthur.toledo741@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.toledo741@gmail.com)](mailto:arthur.toledo741@gmail.com)
+Detailed information
+💼 Working at Squadra Digital as a Backend Developer | Technical leader with Node.js.
+🚀 Currently focused on improving my skills in backend technologies with a focus on software scalability and longevity.
+🌐 Some technologies I use: Node.js, Angular, AWS, NestJS and Docker.
+
+Let's connect
+Feel free to connect with me for collaboration or a friendly chat:
+
+[![Gmail Badge](https://img.shields.io/badge/-arthur.toledo741@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.toledo741@gmail.com)](mailto:arthur.toledo741@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ArthurToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/arthur-toledo)](https://br.linkedin.com/in/arthur-toledo) 
